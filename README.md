@@ -63,24 +63,6 @@ Lambda Driver/
    - Hard to understand
    - Difficult to maintain
 
-## ✅ New Structure Benefits
-
-See `../NEW_STRUCTURE/` for:
-
-- ✅ Single 7B model (better quality)
-- ✅ User-choice drive (D:\, E:\, etc.)
-- ✅ Separate setup/runtime
-- ✅ Windows + Linux support
-- ✅ Clean, modular design
-
-## 📖 Migration Guide
-
-See `../NEW_STRUCTURE/MIGRATION_GUIDE.md` for:
-- How to migrate from version 1.0.1 to new
-- Step-by-step instructions
-- Configuration mapping
-- Troubleshooting
-
 ## 🗑️ Should You Delete This?
 
 **Keep it if:**
@@ -89,9 +71,7 @@ See `../NEW_STRUCTURE/MIGRATION_GUIDE.md` for:
 - You want to compare implementations
 
 **Delete it if:**
-- You've successfully migrated to NEW_STRUCTURE
 - You need disk space
-- You don't need the reference
 
 ## 📊 Comparison
 
